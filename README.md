@@ -1,4 +1,4 @@
 - 👋 Hi, @betterdao here.
-- 🌱 We're building a web3 community to drive planet positive impact IRL. Because web3 is great, but we'd also love to make it to web4.
-- 🌎 Find us at https://hellobetter.world 
-- 🐦 https://twitter.com/hodl_better
+- 🌱 Web3 is great, not let's try and make it to web4.
+- 🌎 Find us at https://betterclimatefund.com 
+- 🐦 https://twitter.com/betterclimate_
